@@ -22,8 +22,6 @@ Actualmente sigo aprendiendo y mejorando cada día. 🚀
 
 ### 🏅 Certificaciones y Badges
 
-📌 Estas insignias se actualizan automáticamente cada semana:
-
 <p align="center">
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/cc205b9e-63be-480c-a05a-9a0857992eac" title="Google Cloud Computing Foundations Certificate"><img src="https://images.credly.com/size/80x80/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" alt="Google Cloud Computing Foundations Certificate" width="80" height="80"></a>
