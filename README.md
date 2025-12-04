@@ -1,3 +1,8 @@
+<!-- Fondo superior -->
+<div align="center">
+  <img src="https://i.imgur.com/RXQ8OeA.jpeg" width="100%" alt="Banner Background"/>
+</div>
+
 <!-- Banner Profesional -->
 <p align="center">
   <img src="https://i.imgur.com/LblHcQK.png" alt="Angel Lagg — Backend Developer & Android"/>
@@ -24,13 +29,12 @@ Actualmente sigo aprendiendo y mejorando cada día. 🚀
 
 <p align="center">
 <!--START_SECTION:badges-->
-<a href="https://www.credly.com/badges/cc205b9e-63be-480c-a05a-9a0857992eac" title="Google Cloud Computing Foundations Certificate"><img src="https://images.credly.com/size/80x80/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" alt="Google Cloud Computing Foundations Certificate" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/d8523375-7647-4ba9-8520-cf4c22f10785" title="Implement Load Balancing on Compute Engine Skill Badge"><img src="https://images.credly.com/size/80x80/images/eea11cba-2a98-4bbe-bad2-447878dd34a2/image.png" alt="Implement Load Balancing on Compute Engine Skill Badge" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/2b250ddd-81ef-4dd1-ac2f-a973a5d766ef" title="Set Up an App Dev Environment on Google Cloud Skill Badge"><img src="https://images.credly.com/size/80x80/images/42326d44-14ff-4eda-b9c5-7d8f12919253/image.png" alt="Set Up an App Dev Environment on Google Cloud Skill Badge" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/7f5d3fd9-401b-4cee-b88d-d1ba3d2c7883" title="Prepare Data for ML APIs on Google Cloud Skill Badge"><img src="https://images.credly.com/size/80x80/images/68756311-9319-4eeb-a2b7-76defc8dd8a2/image.png" alt="Prepare Data for ML APIs on Google Cloud Skill Badge" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/043e8239-bf12-4f7f-b924-1b2221a45ee4" title="Build a Secure Google Cloud Network Skill Badge"><img src="https://images.credly.com/size/80x80/images/e1131ae3-4a52-4af1-9801-b7853767cf79/image.png" alt="Build a Secure Google Cloud Network Skill Badge" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/cc205b9e-63be-480c-a05a-9a0857992eac" title="Google Cloud Computing Foundations Certificate"><img src="https://images.credly.com/size/80x80/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/d8523375-7647-4ba9-8520-cf4c22f10785" title="Implement Load Balancing on Compute Engine Skill Badge"><img src="https://images.credly.com/size/80x80/images/eea11cba-2a98-4bbe-bad2-447878dd34a2/image.png" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/2b250ddd-81ef-4dd1-ac2f-a973a5d766ef" title="Set Up an App Dev Environment on Google Cloud Skill Badge"><img src="https://images.credly.com/size/80x80/images/42326d44-14ff-4eda-b9c5-7d8f12919253/image.png" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/7f5d3fd9-401b-4cee-b88d-d1ba3d2c7883" title="Prepare Data for ML APIs on Google Cloud Skill Badge"><img src="https://images.credly.com/size/80x80/images/68756311-9319-4eeb-a2b7-76defc8dd8a2/image.png" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/043e8239-bf12-4f7f-b924-1b2221a45ee4" title="Build a Secure Google Cloud Network Skill Badge"><img src="https://images.credly.com/size/80x80/images/e1131ae3-4a52-4af1-9801-b7853767cf79/image.png" width="80" height="80"></a>
 <!--END_SECTION:badges-->
-
 </p>
 
 🔗 Mis perfiles oficiales:
@@ -39,8 +43,29 @@ Actualmente sigo aprendiendo y mejorando cada día. 🚀
 
 ---
 
+### 📈 Mis estadísticas en GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AngelLagg&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelLagg&layout=compact&theme=radical" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AngelLagg&theme=onedark&margin-w=10&no-bg=true"/>
+</p>
+
+---
+
+### 🐍 Animación de contribuciones
+
+<p align="center">
+  <img src="https://github.com/AngelLagg/AngelLagg/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
 ### 🚀 Tecnologías & Herramientas
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -55,7 +80,7 @@ Actualmente sigo aprendiendo y mejorando cada día. 🚀
 
 ### 📫 Contacto
 - ✉️ Email: **angellagg3108@gmail.com**  
-- 🔗 LinkedIn: *(Agrega tu enlace cuando quieras)*
+- 🔗 LinkedIn: *(Agrega tu enlace cuando quieras)*  
 
 ---
 
