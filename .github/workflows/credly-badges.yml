@@ -18,10 +18,15 @@ jobs:
       - name: Actualizar insignias con Badge Readme
         uses: pemtajo/badge-readme@main
         with:
-          CREDLY_USER: "202124087-angel-mondragon-gonzalez"
+          CREDLY_USER: "79e63d98-e734-40de-b0bb-38add1a8fa01" # <-- Tu UUID correcto
+          BADGE_SIZE: 110
           NUMBER_LAST_BADGES: 0    # 0 = todas las insignias públicas
+          MARKDOWN_FILE: "README.md"
+          MARKDOWN_SECTION_START: "<!-- CREDLY-BADGES:START -->"
+          MARKDOWN_SECTION_END: "<!-- CREDLY-BADGES:END -->"
 
       - name: Commit & Push cambios
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Actualización automática de insignias Credly 🏅"
+
