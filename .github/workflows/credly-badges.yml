@@ -2,29 +2,26 @@ name: Actualizar insignias de Credly
 
 on:
   schedule:
-    - cron: "0 0 * * 0" # Corre cada domingo a medianoche
-  workflow_dispatch:   # Permite ejecutarlo manualmente desde Actions
+    - cron: "0 0 * * 0"    # cada domingo a medianoche
+  workflow_dispatch:       # permite ejecutarlo manualmente
 
 jobs:
   update-badges:
     runs-on: ubuntu-latest
-
     permissions:
-      contents: write # Necesario para poder actualizar el README
+      contents: write      # para poder modificar README.md
 
     steps:
-      - name: Descargar el repositorio
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Actualizar insignias de Credly
-        uses: Williano/credly-badges-action@v2
+      - name: Actualizar insignias con Badge Readme
+        uses: pemtajo/badge-readme@main
         with:
-          username: ${{ secrets.CREDLY_USERNAME }}
-          target_file: "README.md"
-          start_marker: "<!-- CREDLY-BADGES:START -->"
-          end_marker: "<!-- CREDLY-BADGES:END -->"
+          CREDLY_USER: "202124087-angel-mondragon-gonzalez"
+          NUMBER_LAST_BADGES: 0    # 0 = todas las insignias públicas
 
-      - name: Commit y Push cambios
+      - name: Commit & Push cambios
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Actualización automática de insignias de Credly 🏅"
+          commit_message: "Actualización automática de insignias Credly 🏅"
