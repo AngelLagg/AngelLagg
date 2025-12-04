@@ -26,6 +26,11 @@ Actualmente sigo aprendiendo y mejorando cada día. 🚀
 
 <p align="center">
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/cc205b9e-63be-480c-a05a-9a0857992eac" title="Google Cloud Computing Foundations Certificate"><img src="https://images.credly.com/size/80x80/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" alt="Google Cloud Computing Foundations Certificate" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/d8523375-7647-4ba9-8520-cf4c22f10785" title="Implement Load Balancing on Compute Engine Skill Badge"><img src="https://images.credly.com/size/80x80/images/eea11cba-2a98-4bbe-bad2-447878dd34a2/image.png" alt="Implement Load Balancing on Compute Engine Skill Badge" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/2b250ddd-81ef-4dd1-ac2f-a973a5d766ef" title="Set Up an App Dev Environment on Google Cloud Skill Badge"><img src="https://images.credly.com/size/80x80/images/42326d44-14ff-4eda-b9c5-7d8f12919253/image.png" alt="Set Up an App Dev Environment on Google Cloud Skill Badge" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/7f5d3fd9-401b-4cee-b88d-d1ba3d2c7883" title="Prepare Data for ML APIs on Google Cloud Skill Badge"><img src="https://images.credly.com/size/80x80/images/68756311-9319-4eeb-a2b7-76defc8dd8a2/image.png" alt="Prepare Data for ML APIs on Google Cloud Skill Badge" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/043e8239-bf12-4f7f-b924-1b2221a45ee4" title="Build a Secure Google Cloud Network Skill Badge"><img src="https://images.credly.com/size/80x80/images/e1131ae3-4a52-4af1-9801-b7853767cf79/image.png" alt="Build a Secure Google Cloud Network Skill Badge" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 </p>
