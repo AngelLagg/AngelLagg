@@ -48,13 +48,10 @@ Actualmente sigo aprendiendo y mejorando cada día. 🚀
 - Google Skills: https://www.skills.google/public_profiles/0c360a55-46c9-47a4-ac6b-0861a23fa521
 
 ---
-
-### 🛰️ Futuristic Drone Contribution Animation
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AngelLagg/AngelLagg/output/drone.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AngelLagg/AngelLagg/output/drone.svg">
-  <img alt="Drone Contribution Graph" src="https://raw.githubusercontent.com/AngelLagg/AngelLagg/output/drone.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AngelLagg/AngelLagg/output/output/drone.svg?palette=github-dark&color_snake=#00E5FF&color_dots=#001F33&color_background=#000000">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AngelLagg/AngelLagg/output/output/drone.svg?palette=github-dark&color_snake=#00E5FF&color_dots=#001F33&color_background=#000000">
+  <img alt="Drone Contribution Graph" src="https://raw.githubusercontent.com/AngelLagg/AngelLagg/output/output/drone.svg?palette=github-dark&color_snake=#00E5FF&color_dots=#001F33&color_background=#000000">
 </picture>
 
 
