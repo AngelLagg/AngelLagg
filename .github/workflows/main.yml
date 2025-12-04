@@ -1,28 +1,27 @@
 name: Actualizar Certificaciones Credly
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"   # Corre cada 12 horas
   workflow_dispatch:
-  push:
-    paths:
-      - README.md
+  schedule:
+    - cron: "0 */12 * * *"  # Se ejecuta cada 12 horas
 
 jobs:
   update-badges:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: Actualizar badges desde Credly
-        uses: featherbear/credly-badges@v1.3.0
+        uses: GuillaumeFalourd/credly-badges-action@v1
         with:
-          user: "202124087-angel-mondragon-gonzalez"
-          target: "README.md"
+          user_id: "202124087-angel-mondragon-gonzalez"
+          format: "markdown"
+          target_file: "README.md"
 
       - name: Commit y push
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Actualizo insignias de Credly 🏅"
+          commit_message: "Insignias Credly actualizadas ✨"
+
