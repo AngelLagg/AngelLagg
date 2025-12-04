@@ -1,0 +1,28 @@
+name: Generate Futuristic Drone Animation
+
+on:
+  schedule:
+    # Se ejecuta cada 12 horas automáticamente
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Drone animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: AngelLagg
+          outputs: |
+            output/drone.svg?palette=github-dark&color_snake=#00E5FF&color_dots=#001F33&color_background=#000000
+
+      - name: Push generated files
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "output/*.svg"
+          message: "🛰️ Update Drone Futurista Azul animation"
