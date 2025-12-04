@@ -22,12 +22,12 @@ Actualmente sigo aprendiendo y mejorando cada día. 🚀
 
 ### 🏅 Certificaciones y Badges
 
-📌 Se actualizan automáticamente desde Credly:
+📌 Estas insignias se actualizan automáticamente cada semana:
 
 <p align="center">
 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+<!-- CREDLY-BADGES:START -->
+<!-- CREDLY-BADGES:END -->
 
 </p>
 
@@ -52,9 +52,9 @@ Actualmente sigo aprendiendo y mejorando cada día. 🚀
 ---
 
 ### 📫 Contacto
-- ✉️ Email: **angellagg3108@gmail.com**
-- 🔗 LinkedIn: *(Coloca aquí tu enlace cuando quieras)*
+- ✉️ Email: **angellagg3108@gmail.com**  
+- 🔗 LinkedIn: *(Agrega tu enlace cuando quieras)*
 
 ---
 
-⭐️ *Si te gusta mi trabajo, ¡no dudes en dejar una estrella en mis repos!* ⭐
+⭐️ *Si te gusta mi trabajo, ¡no dudes en dejar una estrella ⭐ en mis repos!*
