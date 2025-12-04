@@ -25,9 +25,8 @@ Actualmente sigo aprendiendo y mejorando cada día. 🚀
 📌 Estas insignias se actualizan automáticamente cada semana:
 
 <p align="center">
-
-<!-- CREDLY-BADGES:START -->
-<!-- CREDLY-BADGES:END -->
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 </p>
 
