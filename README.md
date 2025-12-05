@@ -61,9 +61,12 @@ Actualmente sigo aprendiendo y mejorando cada día. 🚀
 
 ### 📊 Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AngelLagg&show_icons=true&theme=radical">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=AngelLagg&theme=radical&hide_border=false">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AngelLagg&show_icons=true&theme=radical)
 </p>
+<p align="center">
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AngelLagg&theme=radical&hide_border=false)
+</p>
+
 
 ---
 
