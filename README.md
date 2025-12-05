@@ -15,8 +15,8 @@
 ---
 
 ### 👨‍💻 Sobre mí  
-Soy un **Backend & Android Developer** apasionado por crear soluciones reales usando buenas prácticas, arquitectura limpia y rendimiento.  
-Me encanta desarrollar **APIs robustas**, integrar bases de datos y trabajar con aplicaciones móviles conectadas al backend.  
+Soy un Backend & Android Developer apasionado por crear soluciones reales usando buenas prácticas, arquitectura limpia y rendimiento.  
+Me encanta desarrollar APIs robustas, integrar bases de datos y trabajar con aplicaciones móviles conectadas al backend.  
 
 Actualmente sigo aprendiendo y mejorando cada día. 🚀
 
