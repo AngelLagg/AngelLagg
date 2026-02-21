@@ -4,12 +4,12 @@
 </p>
 
 <h1 align="center">
-  👋 ¡Hola! Soy Angel Mondragon, Bienvenido...
+   ¡Hola! Soy Angel Mondragon, Bienvenido...
 </h1>
 
 <!-- Texto animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9B00FF&center=true&vCenter=true&width=550&lines=Backend+Developer;Android+Developer;APIs+REST+%7C+Bases+de+Datos;Siempre+aprendiendo+algo+nuevo+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9B00FF&center=true&vCenter=true&width=550&lines=Backend+Developer;Android+Developer;APIs+REST+%7C+Bases+de+Datos;Siempre+aprendiendo+algo+nuevo">
 </p>
 
 ---
